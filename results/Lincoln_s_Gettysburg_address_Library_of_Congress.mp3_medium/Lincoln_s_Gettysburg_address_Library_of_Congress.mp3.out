@@ -1,0 +1,25 @@
+/usr/local/lib/python3.11/site-packages/whisper/timing.py:57: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  @numba.jit
+/usr/local/lib/python3.11/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: English
+[00:00.000 --> 00:09.000]  The National Cemetery at Gettysburg was dedicated on November the 19th, 1863.
+[00:09.000 --> 00:18.000]  It commemorated the decisive battle of the Great Civil War, which had been fought there some four months earlier.
+[00:18.000 --> 00:27.000]  The oration of the day was delivered by the brilliant orator, Edward Everett, and occupied two hours.
+[00:27.000 --> 00:38.000]  At its close, President Lincoln, with a few notes which he had penciled on the train while coming from Washington, spoke for barely three minutes.
+[00:38.000 --> 00:50.000]  The speech of Everett has been forgotten. The speech of Lincoln will be remembered until languages are dead and lips are dust.
+[00:50.000 --> 01:03.000]  It measures up to all of Daniel Webster's famous requirements that a great speech consists of three things, the man, the subject, and the occasion.
+[01:03.000 --> 01:08.000]  These are Lincoln's undying words.
+[01:08.000 --> 01:28.000]  Four score and seven years ago, our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal.
+[01:28.000 --> 01:44.000]  Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure.
+[01:44.000 --> 02:04.000]  We are met on a great battlefield of that war. We have come to dedicate a portion of that field as a final resting place for those who here gave their lives that that nation might live.
+[02:04.000 --> 02:10.000]  It is altogether fitting and proper that we should do this.
+[02:10.000 --> 02:23.000]  But in a larger sense, we cannot dedicate, we cannot consecrate, we cannot hallow this ground.
+[02:23.000 --> 02:37.000]  The brave men, living and dead, who struggled here, have consecrated it far above our poor power to add or detract.
+[02:37.000 --> 02:48.000]  The world will little note nor long remember what we say here, but it can never forget what they did here.
+[02:48.000 --> 03:02.000]  It is for us, the living, rather to be dedicated here to the unfinished work which they who fought here have thus far so nobly acclaimed.
+[03:02.000 --> 03:25.000]  It is rather for us to be here dedicated to the great task remaining before us, that from these honored dead we take increased devotion to that cause for which they here gave the last full measure of devotion.
+[03:25.000 --> 03:49.000]  That we here highly resolve that these dead shall not have died in vain, that this nation under God shall have a new birth of freedom, and that government of the people, by the people, and for the people shall not perish from the earth.
+[0m6072.08user 227.82system 14:20.34elapsed 732%CPU (0avgtext+0avgdata 6363936maxresident)k
+6912inputs+56outputs (5030major+17971388minor)pagefaults 0swaps

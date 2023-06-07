@@ -1,0 +1,42 @@
+/usr/local/lib/python3.11/site-packages/whisper/timing.py:57: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  @numba.jit
+/usr/local/lib/python3.11/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: English
+[00:00.000 --> 00:09.880]  The National Cemetery at Gettysburg was dedicated on November the 19th, 1863.
+[00:09.880 --> 00:16.000]  It commemorated the decisive battle of the Great Civil War, which had been fought there
+[00:16.000 --> 00:19.000]  some four months earlier.
+[00:19.000 --> 00:25.600]  The oration of the day was delivered by the brilliant orator Edward Everett and occupied
+[00:25.600 --> 00:33.100]  two hours. At its close, President Lincoln, with a few notes which he had penciled on
+[00:33.100 --> 00:39.100]  the train while coming from Washington, spoke for barely three minutes.
+[00:39.100 --> 00:46.400]  The speech of Everett has been forgotten. The speech of Lincoln will be remembered until
+[00:46.400 --> 00:50.600]  languages are dead and lips are dust.
+[00:50.600 --> 00:57.600]  It measures up to all of Daniel Webster's famous requirements that a great speech consists
+[00:57.600 --> 01:03.600]  of three things, the man, the subject, and the occasion.
+[01:03.600 --> 01:08.600]  These are Lincoln's undying words.
+[01:08.600 --> 01:19.600]  Four score and seven years ago, our fathers brought forth on this continent a new nation
+[01:19.600 --> 01:28.600]  conceived in liberty and dedicated to the proposition that all men are created equal.
+[01:28.600 --> 01:39.600]  Now we are engaged in a great civil war, testing whether that nation or any nation so conceived
+[01:39.600 --> 01:44.600]  and so dedicated can long endure.
+[01:44.600 --> 01:49.600]  We are met on a great battlefield of that war.
+[01:49.600 --> 01:57.600]  We have come to dedicate a portion of that field as a final resting place for those who
+[01:57.600 --> 02:03.600]  here gave their lives that that nation might live.
+[02:03.600 --> 02:09.600]  It is altogether fitting and proper that we should do this.
+[02:09.600 --> 02:15.600]  But in a larger sense, we cannot dedicate.
+[02:15.600 --> 02:18.600]  We cannot consecrate.
+[02:18.600 --> 02:23.600]  We cannot hallow this ground.
+[02:23.600 --> 02:33.600]  The brave men living and dead who struggled here have consecrated it far above power for
+[02:33.600 --> 02:37.600]  power to add or detract.
+[02:37.600 --> 02:45.600]  The world will little note no longer remember what we say here, but it can never forget
+[02:45.600 --> 02:48.600]  what they did here.
+[02:48.600 --> 02:56.600]  It is for us living rather to be dedicated here to the unfinished work which they who
+[02:56.600 --> 03:02.600]  fought here have thus far so nobly advanced.
+[03:02.600 --> 03:10.600]  It is rather for us to be here dedicated to the great task remaining before us.
+[03:10.600 --> 03:19.600]  That from these honored heads we take increased devotion to that cause for which they here
+[03:19.600 --> 03:25.600]  gave the last full measure of devotion.
+[03:25.600 --> 03:32.600]  That we here highly resolve that these dead shall not have died in vain.
+[03:32.600 --> 03:38.600]  That this nation under God shall have a new birth of freedom.
+[03:38.600 --> 03:49.600]  And that government of the people, by the people and for the people shall not perish from the earth.
+[0m2033.39user 61.63system 4:52.66elapsed 715%CPU (0avgtext+0avgdata 2931180maxresident)k
+7208inputs+64outputs (5011major+11960738minor)pagefaults 0swaps

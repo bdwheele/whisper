@@ -1,0 +1,30 @@
+/usr/local/lib/python3.11/site-packages/whisper/timing.py:57: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  @numba.jit
+/usr/local/lib/python3.11/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: English
+[00:00.000 --> 00:06.260]  140 years ago today, President Abraham Lincoln stood at the site of one of the most important
+[00:06.260 --> 00:12.100]  battles of the U.S. Civil War in Gettysburg, Pennsylvania. A crowd of some 15,000 had gathered
+[00:12.100 --> 00:17.900]  to consecrate a cemetery for Union war dead. Though brief, the now famous Gettysburg Address
+[00:17.900 --> 00:23.360]  marked a defining moment of the Civil War. Actor Sam Waterston has portrayed President
+[00:23.360 --> 00:26.080]  Lincoln on stage and screen.
+[00:26.080 --> 00:34.960]  Four score and seven years ago, our fathers brought forth on this continent a new nation,
+[00:34.960 --> 00:44.540]  conceived in liberty and dedicated to the proposition that all men are created equal.
+[00:44.540 --> 00:53.440]  Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived
+[00:53.440 --> 01:03.240]  and so dedicated, can long endure. We are met on a great battlefield of that war. We
+[01:03.240 --> 01:10.160]  have come to dedicate a portion of that field as a final resting place for those who here
+[01:10.160 --> 01:17.280]  gave their lives that that nation might live. It is altogether fitting and proper that we
+[01:17.280 --> 01:27.600]  should do this. But in a larger sense, we cannot dedicate, we cannot consecrate, we
+[01:27.600 --> 01:35.000]  cannot hallow this ground. The brave men living and dead who struggled here have consecrated
+[01:35.000 --> 01:44.000]  it far above our poor power to add or detract. The world will little note nor long remember
+[01:44.240 --> 01:51.240]  what we say here, but it can never forget what they did here. It is for us the living,
+[01:51.240 --> 01:57.380]  rather, to be dedicated here to the unfinished work which they who fought here have thus
+[01:57.380 --> 02:04.380]  far so nobly advanced. It is rather for us to be here dedicated to the great task remaining
+[02:04.380 --> 02:11.380]  before us, that from these honored dead we take increased devotion to that cause for
+[02:12.380 --> 02:19.380]  which they gave the last full measure of devotion. That we here highly resolve that these dead
+[02:21.380 --> 02:28.380]  shall not have died in vain, that this nation, under God, shall have a new birth of freedom,
+[02:32.380 --> 02:39.380]  and that government of the people, by the people, for the people, shall have a new birth
+[02:41.380 --> 03:02.460]  shall not perish from the earth.
+[0m5328.25user 152.22system 12:36.09elapsed 724%CPU (0avgtext+0avgdata 6521692maxresident)k
+2984392inputs+56outputs (5081major+16282031minor)pagefaults 0swaps

@@ -1,0 +1,46 @@
+/usr/local/lib/python3.11/site-packages/whisper/timing.py:57: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  @numba.jit
+/usr/local/lib/python3.11/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[00:00.000 --> 00:15.120]  Musik
+[00:30.520 --> 00:37.560]  Du du hast du hast mich
+[00:37.560 --> 00:44.640]  du du hast du hast mich
+[00:44.640 --> 00:55.380]  du du hast du hast mich
+[00:55.700 --> 00:58.980]  du hast du hast mich
+[01:16.980 --> 01:22.020]  du du hast du hast mich
+[01:22.420 --> 01:24.220]  du hast mich
+[01:24.220 --> 01:26.220]  du hast mich gefragt
+[01:26.220 --> 01:28.220]  du hast mich gefragt
+[01:28.220 --> 01:29.720]  du hast mich gefragt
+[01:29.720 --> 01:32.220]  und ich hab nichts gesagt
+[01:32.220 --> 01:36.020]  Willst du bis der Tod euch scheiden
+[01:36.020 --> 01:40.020]  treu ihr sein für alle Tage?
+[01:41.720 --> 01:42.720]  Nein!
+[01:45.520 --> 01:46.520]  Nein!
+[01:47.520 --> 01:51.420]  Willst du bis der Tod euch scheiden
+[01:51.420 --> 01:55.420]  treu ihr sein für alle Tage?
+[01:56.920 --> 01:57.920]  Nein!
+[02:00.920 --> 02:01.920]  Nein!
+[02:02.420 --> 02:03.420]  Nein!
+[02:18.420 --> 02:23.420]  Du du hast du hast mich
+[02:25.920 --> 02:31.420]  du du hast du hast mich
+[02:32.920 --> 02:37.920]  du du hast du hast mich
+[02:37.920 --> 02:39.920]  du hast mich
+[02:39.920 --> 02:41.920]  du hast mich gefragt
+[02:41.920 --> 02:43.920]  du hast mich gefragt
+[02:43.920 --> 02:45.920]  du hast mich gefragt
+[02:45.920 --> 02:47.920]  und ich hab nichts gesagt
+[03:02.920 --> 03:06.920]  Willst du bis der Tod euch scheiden
+[03:06.920 --> 03:10.920]  treu ihr sein für alle Tage?
+[03:12.920 --> 03:13.920]  Nein!
+[03:16.920 --> 03:17.920]  Nein!
+[03:18.920 --> 03:21.920]  Willst du bis zum Tod der Scheide
+[03:21.920 --> 03:26.920]  sie leben auch in schlechteren Tagen?
+[03:27.920 --> 03:28.920]  Nein!
+[03:32.920 --> 03:33.920]  Nein!
+[03:34.920 --> 03:38.920]  Willst du bis der Tod euch scheiden
+[03:38.920 --> 03:42.920]  treu ihr sein?
+[03:44.920 --> 03:45.920]  Nein!
+[03:47.920 --> 03:48.920]  Nein!
+[0m1273.32user 126.14system 3:01.06elapsed 772%CPU (0avgtext+0avgdata 2955516maxresident)k
+0inputs+56outputs (5136major+57259010minor)pagefaults 0swaps

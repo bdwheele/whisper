@@ -1,0 +1,59 @@
+/usr/local/lib/python3.11/site-packages/whisper/timing.py:57: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  @numba.jit
+/usr/local/lib/python3.11/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: English
+[00:00.000 --> 00:06.280]  Wouldn't it be better just to go home, dear, Aunt Petunia suggested timidly hours later.
+[00:06.280 --> 00:09.120]  But Uncle Vernon didn't seem to hear her.
+[00:09.120 --> 00:11.960]  Exactly what he was looking for, none of them knew.
+[00:11.960 --> 00:16.920]  He drove them into the middle of a forest, got out, looked around, shook his head, got
+[00:16.920 --> 00:19.620]  back into the car, and off they went again.
+[00:19.620 --> 00:23.440]  The same thing happened in the middle of a ploughed field, halfway across a suspension
+[00:23.440 --> 00:27.080]  bridge, and at the top of a multi-level parking garage.
+[00:27.800 --> 00:30.320]  Daddy's gone bad, hasn't he?
+[00:30.320 --> 00:34.040]  Dudley asked Aunt Petunia dully later that afternoon.
+[00:34.040 --> 00:40.080]  Uncle Vernon had parked at the coast, locked them all inside the car, and disappeared.
+[00:40.080 --> 00:44.120]  It started to rain, great drops beat on the roof of the car.
+[00:44.120 --> 00:45.120]  Dudley snivelled.
+[00:45.120 --> 00:47.960]  It's Monday, he told his mother.
+[00:47.960 --> 00:50.680]  The great Humberto's on tonight.
+[00:50.680 --> 00:54.640]  I want to stay somewhere with the television.
+[00:54.680 --> 00:58.520]  Monday, this reminded Harry of something.
+[00:58.520 --> 01:02.980]  If it was Monday, and you could usually count on Dudley to know the days of the week because
+[01:02.980 --> 01:08.840]  of television, then tomorrow, Tuesday, was Harry's 11th birthday.
+[01:08.840 --> 01:12.200]  Of course, his birthdays were never exactly fun.
+[01:12.200 --> 01:16.520]  Last year, the Dursleys had given him a coat hanger and a pair of Uncle Vernon's old socks.
+[01:16.520 --> 01:19.920]  Still, you weren't 11 every day.
+[01:19.920 --> 01:21.880]  Uncle Vernon was back, and he was smiling.
+[01:21.880 --> 01:26.480]  He was also carrying a long, thin package, and didn't answer Aunt Petunia when she asked
+[01:26.480 --> 01:28.480]  what he'd bought.
+[01:28.480 --> 01:31.000]  Found the perfect place, he said.
+[01:31.000 --> 01:33.920]  Come on, everyone out.
+[01:33.920 --> 01:36.440]  It was very cold outside the car.
+[01:36.440 --> 01:40.600]  Uncle Vernon was pointing at what looked like a large rock way out at sea.
+[01:40.600 --> 01:44.960]  Perched on top of the rock was the most miserable little shack you could imagine.
+[01:44.960 --> 01:49.400]  One thing was certain, there was no television in there.
+[01:49.400 --> 01:54.720]  Some forecast for tonight, said Uncle Vernon gleefully, clapping his hands together, and
+[01:54.720 --> 01:59.080]  this gentleman's kindly agreed to lend us his boat.
+[01:59.080 --> 02:03.800]  A toothless old man came ambling up to them, pointing, with a rather wicked grin, at an
+[02:03.800 --> 02:07.440]  old rowboat bobbing in the iron-grey water below them.
+[02:07.440 --> 02:13.360]  I've already got us some rations, said Uncle Vernon, so all aboard.
+[02:13.360 --> 02:15.600]  It was freezing in the boat.
+[02:15.600 --> 02:20.760]  Heavy sea spray and rain crept down their necks, and a chilly wind whipped their faces.
+[02:20.760 --> 02:25.120]  After what seemed like hours, they reached the rock, where Uncle Vernon, slipping and
+[02:25.120 --> 02:28.360]  sliding, led the way to the broken-down house.
+[02:28.360 --> 02:30.400]  The inside was horrible.
+[02:30.400 --> 02:32.720]  It smelled strongly of seaweed.
+[02:32.720 --> 02:37.160]  The wind whistled through the gaps in the wooden walls, and the fireplace was damp and
+[02:37.160 --> 02:38.160]  empty.
+[02:38.160 --> 02:41.000]  There were only two rooms.
+[02:41.000 --> 02:46.720]  Uncle Vernon's rations turned out to be a bag of chips each, and four bananas.
+[02:46.720 --> 02:52.040]  He tried to start a fire, but the empty chip bags just smoked and shriveled up.
+[02:52.040 --> 02:57.200]  Could do with some of those letters now, eh? he said cheerfully.
+[02:57.200 --> 02:59.080]  He was in a very good mood.
+[02:59.080 --> 03:03.520]  Obviously, he thought nobody stood a chance of reaching them here in a storm to deliver
+[03:03.520 --> 03:04.680]  mail.
+[03:04.680 --> 03:08.520]  Harry privately agreed, though the thought didn't cheer him up at all.
+[0m16369.22user 3997.93system 45:23.88elapsed 747%CPU (0avgtext+0avgdata 10529344maxresident)k
+4108520inputs+96outputs (5065major+1138997031minor)pagefaults 0swaps

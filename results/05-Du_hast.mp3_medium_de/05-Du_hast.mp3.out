@@ -1,0 +1,30 @@
+/usr/local/lib/python3.11/site-packages/whisper/timing.py:57: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  @numba.jit
+/usr/local/lib/python3.11/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[00:00.000 --> 00:02.000]  Die Musik wird weiter aufwärts.
+[01:00.000 --> 01:02.000]  Die Musik wird weiter aufwärts.
+[01:30.000 --> 01:32.000]  Ich hab nichts gesagt.
+[02:01.000 --> 02:02.000]  Nein!
+[02:18.000 --> 02:24.000]  Du, du hast, du hast mich.
+[02:25.000 --> 02:31.000]  Du, du hast, du hast mich.
+[02:33.000 --> 02:39.000]  Du, du hast, du hast mich.
+[02:39.000 --> 02:43.000]  Du hast mich, du hast mich gefragt.
+[02:43.000 --> 02:46.000]  Du hast mich gefragt, du hast mich gefragt.
+[02:46.000 --> 02:49.000]  Und ich hab nichts gesagt.
+[02:54.000 --> 03:01.000]  Du hast mich gefragt, du hast mich gefragt.
+[03:04.000 --> 03:07.000]  Willst du bist der tote Scheide?
+[03:08.000 --> 03:11.000]  Treuer sein für alle Tage.
+[03:13.000 --> 03:14.000]  Nein!
+[03:17.000 --> 03:18.000]  Nein!
+[03:19.000 --> 03:22.000]  Willst du bist zum Tod der Scheide?
+[03:22.000 --> 03:27.000]  Sie leben auch in schlechten Tagen.
+[03:29.000 --> 03:30.000]  Nein!
+[03:33.000 --> 03:34.000]  Nein!
+[03:35.000 --> 03:38.000]  Willst du bist der tote Scheide?
+[03:39.000 --> 03:42.000]  Treuer sein!
+[03:44.000 --> 03:45.000]  Nein!
+[03:48.000 --> 03:49.000]  Nein!
+[03:52.000 --> 03:53.000]  Nein!
+[0m12709.35user 1130.16system 31:06.45elapsed 741%CPU (0avgtext+0avgdata 6775240maxresident)k
+135912inputs+48outputs (5043major+283306765minor)pagefaults 0swaps

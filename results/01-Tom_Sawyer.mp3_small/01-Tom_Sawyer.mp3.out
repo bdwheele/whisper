@@ -1,0 +1,30 @@
+/usr/local/lib/python3.11/site-packages/whisper/timing.py:57: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  @numba.jit
+/usr/local/lib/python3.11/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: English
+[00:00.000 --> 00:11.000]  A Monday warrior, meet me stride Today's Tom Sawyer, meet me pride
+[00:11.000 --> 00:28.000]  Though his mind is not for him Don't put him down as air again
+[00:28.000 --> 00:34.000]  His reserve of quiet defence Riding out the days of ends
+[00:34.000 --> 00:52.000]  And don't revoke
+[00:52.000 --> 00:57.000]  What do you say about his company? Is what you say about society?
+[00:57.000 --> 01:11.000]  Catch the myth, catch the mystery, catch the grip
+[01:11.000 --> 01:18.000]  The world is, the world is Love and life are deep
+[01:18.000 --> 01:28.000]  Maybe as it skies are wide
+[01:28.000 --> 01:33.000]  Today's Tom Sawyer, he gets high on you And the space he invades, he gets by on you
+[01:41.000 --> 01:57.000]  Love and life are deep
+[01:57.000 --> 02:07.000]  Love and life are deep
+[02:28.000 --> 02:43.000]  Love and life are deep
+[02:43.000 --> 02:48.000]  Though his mind is not for him To any God of government
+[02:48.000 --> 02:54.000]  Always hopeful you're discontent Though changes are permanent
+[02:54.000 --> 03:12.000]  More changes
+[03:12.000 --> 03:18.000]  What do you say about his company? Is what you say about society?
+[03:18.000 --> 03:31.000]  Catch the witness, catch the whip Catch the spirit, catch the spirit
+[03:31.000 --> 03:38.000]  The world is, the world is Love and life are deep
+[03:39.000 --> 03:48.000]  Maybe as it skies are wide
+[03:48.000 --> 03:52.000]  Exit the worry of today's Tom Sawyer, he gets high on you
+[03:52.000 --> 03:58.000]  And the energy you train, he gets by on to the friction of the day
+[04:08.000 --> 04:18.000]  Love and life are deep
+[0m1662.05user 71.23system 4:13.06elapsed 684%CPU (0avgtext+0avgdata 3021100maxresident)k
+272inputs+56outputs (5048major+14508927minor)pagefaults 0swaps

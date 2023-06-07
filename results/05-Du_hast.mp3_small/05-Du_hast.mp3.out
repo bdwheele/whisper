@@ -1,0 +1,15 @@
+/usr/local/lib/python3.11/site-packages/whisper/timing.py:57: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  @numba.jit
+/usr/local/lib/python3.11/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: English
+[00:00.000 --> 00:12.260]  Thanks for watching and Don't Forget to Like And Subscribe to
+[01:00.000 --> 01:12.000]  Thanks for watching and Don't Forget to Like And Subscribe to
+[01:30.000 --> 01:50.000]  Thanks for watching and Don't Forget to Like And Subscribe to
+[01:50.000 --> 02:18.000]  Thanks for watching and Don't Forget to Like And Subscribe to
+[02:48.000 --> 03:08.000]  Thanks for watching and Don't Forget to Like And Subscribe to
+[03:08.000 --> 03:28.000]  Thanks for watching and Don't Forget to Like And Subscribe to
+[03:28.000 --> 03:54.000]  Thanks for watching and Don't Forget to Like And Subscribe to
+[0m2226.59user 143.14system 5:03.19elapsed 781%CPU (0avgtext+0avgdata 2762868maxresident)k
+0inputs+40outputs (5077major+64873389minor)pagefaults 0swaps
